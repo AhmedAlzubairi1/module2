@@ -1,4 +1,4 @@
-# Lab1- Maker Valentine Box: By My Valentine
+# Lab2- Maker Valentine Box: By My Valentine
 Lab 2 for creative embedded systems
 
 ## What is it?
