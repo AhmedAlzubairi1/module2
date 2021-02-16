@@ -20,11 +20,6 @@ Components used:
   - 2 Green LED
   - 1 Blue LED
   - Arduino Mega 
-int potPin=2;
-int switchPin=53;
-int rightButtonPin=49;
-int leftButtonPin=51;
-int leds [8] = { 2, 3, 4, 5, 6, 7, 8, 9}; 
 
 For the specific wiring, here is the digital connection layout for all the components:
     - Connect the Potentiometer to pin 2
